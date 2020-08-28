@@ -1,0 +1,5 @@
+image = load_image(images/y_1.jpg);
+
+corners = task_1_example(image);
+
+Show_Feature(image, features);
